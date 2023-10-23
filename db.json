@@ -6,16 +6,16 @@
         "age": 35,
         "phone": "+7 (123) 456-7890",
         "email": "anatoliy@example.com",
-        "company": "Ливада ООО",
+        "company": "Ливада ООО"
       }
     },
     {
       "person": {
-        "name": "Луцко Елена Ивановна ",
+        "name": "Луцко Елена Ивановна",
         "age": 28,
         "phone": "+7 (987) 654-3210",
         "email": "elena@example.com",
-        "company": "Каптопресс ООО",
+        "company": "Каптопресс ООО"
       }
     },
     {
@@ -24,7 +24,7 @@
         "age": 42,
         "phone": "+7 (555) 123-4567",
         "email": "petr@example.com",
-        "company": "АгроДвижПрогресс ООО",
+        "company": "АгроДвижПрогресс ООО"
       }
     }
   ]
