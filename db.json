@@ -59,7 +59,7 @@
     },
     {
       "person": {
-        "name": "Луцко Елена Ивановна",
+        "name": "Луцко Анастасия Ивановна",
         "age": 28,
         "phone": "+7 (987) 654-3210",
         "email": "elena@example.com"
@@ -79,7 +79,7 @@
     },
     {
       "person": {
-        "name": "Шилуппа Петр Сергеевич",
+        "name": "Шилуппа Сергей Сергеевич",
         "age": 42,
         "phone": "+7 (555) 123-4567",
         "email": "petr@example.com"
@@ -99,14 +99,14 @@
     },
     {
       "person": {
-        "name": "Иванов Иван Иванович",
+        "name": "Ецук Иван Леванович",
         "age": 25,
         "phone": "+7 (111) 222-3333",
         "email": "ivan@example.com"
       },
       "organizations": [
         {
-          "name": "Организация 1",
+          "name": "Трина ООО",
           "contracts": [
             {
               "contract_number": "222",
@@ -126,7 +126,7 @@
       },
       "organizations": [
         {
-          "name": "Организация 2",
+          "name": "Ливада ООО",
           "contracts": [
             {
               "contract_number": "333",
