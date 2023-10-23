@@ -29,3 +29,114 @@
     }
   ]
 }
+
+{
+  "counterparties_second": [
+    {
+      "person": {
+        "name": "Анатолий Захар Артемович",
+        "age": 35,
+        "phone": "+7 (123) 456-7890",
+        "email": "anatoliy@example.com"
+      },
+      "organizations": [
+        {
+          "name": "Ливада ООО",
+          "contracts": [
+            {
+              "contract_number": "123",
+              "start_date": "2023-01-01",
+              "end_date": "2023-12-31"
+            },
+            {
+              "contract_number": "456",
+              "start_date": "2023-02-15",
+              "end_date": "2023-11-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person": {
+        "name": "Луцко Елена Ивановна",
+        "age": 28,
+        "phone": "+7 (987) 654-3210",
+        "email": "elena@example.com"
+      },
+      "organizations": [
+        {
+          "name": "Каптопресс ООО",
+          "contracts": [
+            {
+              "contract_number": "789",
+              "start_date": "2023-03-10",
+              "end_date": "2023-09-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person": {
+        "name": "Шилуппа Петр Сергеевич",
+        "age": 42,
+        "phone": "+7 (555) 123-4567",
+        "email": "petr@example.com"
+      },
+      "organizations": [
+        {
+          "name": "АгроДвижПрогресс ООО",
+          "contracts": [
+            {
+              "contract_number": "101",
+              "start_date": "2023-05-20",
+              "end_date": "2023-12-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person": {
+        "name": "Иванов Иван Иванович",
+        "age": 25,
+        "phone": "+7 (111) 222-3333",
+        "email": "ivan@example.com"
+      },
+      "organizations": [
+        {
+          "name": "Организация 1",
+          "contracts": [
+            {
+              "contract_number": "222",
+              "start_date": "2023-04-01",
+              "end_date": "2023-10-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "person": {
+        "name": "Петров Петр Петрович",
+        "age": 33,
+        "phone": "+7 (444) 555-6666",
+        "email": "petr2@example.com"
+      },
+      "organizations": [
+        {
+          "name": "Организация 2",
+          "contracts": [
+            {
+              "contract_number": "333",
+              "start_date": "2023-06-15",
+              "end_date": "2023-12-15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
